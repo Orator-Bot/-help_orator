@@ -2,7 +2,8 @@
 
 <p>Easy to use Text To Speech Bot with 50+ Language Support, restrictable to particular text channels, and default language for the server can be set. Orator is a Text to speech ( TTS ) bot that basically speaks in voice chat whatever you type in chat through its command. It has many languages and can be used in voice chat.</p>
 
-1. [Orator-server](https://discord.gg/YRWe7Bhn) 2. [Invite me](https://dsc.gg/orator)
+<li> [Orator-server](https://discord.gg/YRWe7Bhn)</li> 
+<li> [Invite me](https://dsc.gg/orator) <?li>
 
 <li>Discord bot prefix : <b>/</b></li>
 <li>Total slash commands : <b>12</b></li>
