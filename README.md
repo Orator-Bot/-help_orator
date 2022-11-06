@@ -35,3 +35,9 @@
 <p>Using the command <b>/setup-language</b> you can setup the language of the bot</p>
 
 <img src="https://media.discordapp.net/attachments/1033290797229023272/1036354632986931310/unknown.png">
+
+<h1>Checking up the settings of the bot </h1>
+
+<p>By using the command <b>/settings</B> you can check out the settings of the Orator bot on your server
+
+<img src="https://media.discordapp.net/attachments/1033290797229023272/1038721324559913011/image.png">
