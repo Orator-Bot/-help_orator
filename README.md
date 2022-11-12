@@ -40,4 +40,4 @@
 
 <p>By using the command <b>/settings</B> you can check out the settings of the Orator bot on your server
 
-<img src="https://media.discordapp.net/attachments/1033290797229023272/1038721324559913011/image.png">
+<img src="https://media.discordapp.net/attachments/1033290797229023272/1038721324559913011/image.png" alt="image">
